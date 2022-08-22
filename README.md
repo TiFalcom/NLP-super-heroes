@@ -2,7 +2,7 @@
 
 ## Requirements
 <ol>
-  <li><a href=https://pypi.org/project/scikit-learn/>[sklearn]</a> - Used to Modeling date with Machine Learning models and calculate scores- 0.24.1</li>
+  <li><a href=https://pypi.org/project/scikit-learn/>[sklearn]</a> - Used to Modeling data with Machine Learning models and calculate scores- 0.24.1</li>
   <li><a href=https://pypi.org/project/pandas/>[pandas]</a> - Used to Import - Manipulate - Export data - 1.2.4</li>
   <li><a href=https://pypi.org/project/numpy/>[numpy]</a> - Used to define seed and work with arrays - 1.20.1</li>
   <li><a href=https://pypi.org/project/regex/>[regex]</a> - Used to treat regular expressions - 2.2.1</li>
