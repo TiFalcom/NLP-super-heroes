@@ -10,7 +10,7 @@
 
 
 ## Objective
-Use Summarization, Classification and Similarity to improve NLP knowledge for an NLP class in college.
+Use Summarization, Classification and Similarity to improve NLP knowledge for a NLP class in college.
 
 
 ## Credits
